@@ -106,14 +106,38 @@ h1{
     height: 60vh; 
     object-fit: cover;
 }
-.head{
+#hero{
+    background-image: url(./img/img4.jpeg);
+    border-radius: 16px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+     width:  700px;
+    height: 60vh; 
+    object-fit: cover;
+}
+#hero{
+    justify-content: center;
+    text-align: center;
+    padding: 3rem;
+
+}  
+/* .head{
       margin-top: 2rem;
-    padding-left: 8rem;
+    padding-left: 12rem;
     justify-items: center;
 }
 .para{
-    padding-left: 8rem;
-}
+    padding-left: 12rem; */
+/* } */
 .play{
     padding-top: 12rem;
+}
+
+.container{
+    padding-right: 12rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: none;
 }
