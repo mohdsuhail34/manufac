@@ -1,0 +1,119 @@
+.icon{
+    background-color: blue;
+    padding: 0.4rem;   
+}
+
+.page1{
+    margin-right: 4rem;
+    margin-left: 4rem; 
+    
+}
+h1{
+    font-size: 60px;
+}
+.cartoon{
+    
+    background-image: url(./img/cartoon1.jpeg);
+     margin-right: 5rem;  
+    background-position:center bottom;
+    width: 100%;
+    height: 400px;
+    position: relative;
+    padding-right: 2rem;
+    border-radius: 16px;
+    background-size: cover;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    
+}
+.cartoon1{
+    
+    background-image: url(./img/img2.jpeg);
+     margin-right: 5rem;  
+    background-position:center bottom;
+    width: 100%;
+    height: 400px;
+    position: relative;
+
+    border-radius: 16px;
+    background-size: cover;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+#about{
+    text-align: center;
+    padding: 40px;
+}
+#our{
+    text-align: center;
+    align-items: center;
+}
+.ol{
+    margin: 3rem;
+}
+.in{
+    text-align: center;
+}
+.container {
+    /* background-image: url(./img/glass.jpeg); */
+    margin-right: 5rem;  
+   background-position:center bottom;
+   width: 100%;
+   height: 200px;
+   position: relative;
+
+   border-radius: 16px;
+   background-size: cover;
+   background-position: center bottom;
+   background-repeat: no-repeat;
+   object-fit: cover;   
+} 
+   #cart{
+    justify-content: center;
+    text-align: center;
+    padding: 4rem;
+
+}
+
+#last{
+    justify-content: center;
+    text-align: center;
+    padding: 4rem;
+
+}  
+#photo{
+    padding: 2rem;
+}
+.img-fluid{
+    border-radius: 16px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 600px;
+    height: 60vh;
+    background-image: url(./img/img4.jpeg);
+    object-fit: cover;
+}
+#lastpage{
+    background-image: url(./img/img5.jpeg);
+    border-radius: 16px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+     width:  600px;
+    height: 60vh; 
+    object-fit: cover;
+}
+.head{
+      margin-top: 2rem;
+    padding-left: 8rem;
+    justify-items: center;
+}
+.para{
+    padding-left: 8rem;
+}
+.play{
+    padding-top: 12rem;
+}
